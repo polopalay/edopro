@@ -13,3 +13,5 @@
 [2022-12-28 11:22:44] Warning occurred in repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings: failed to resolve address for github.com: nodename nor servname provided, or not known
 [2023-01-08 23:28:38] Warning occurred in repo https://github.com/ProjectIgnis/Puzzles: failed to resolve address for github.com: nodename nor servname provided, or not known
 [2023-01-29 20:03:26] Warning occurred in repo https://github.com/ProjectIgnis/LFLists: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2023-03-19 22:18:31] Failed to load WindBot Ignite config json: [json.exception.parse_error.101] parse error at line 194, column 15: syntax error while parsing array - unexpected ':'; expected ']'
+[2023-03-19 22:18:31] Failed to parse WindBot Ignite config json entry: [json.exception.type_error.304] cannot use at() with string
