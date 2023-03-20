@@ -15,3 +15,11 @@
 [2023-01-29 20:03:26] Warning occurred in repo https://github.com/ProjectIgnis/LFLists: failed to resolve address for github.com: nodename nor servname provided, or not known
 [2023-03-19 22:18:31] Failed to load WindBot Ignite config json: [json.exception.parse_error.101] parse error at line 194, column 15: syntax error while parsing array - unexpected ':'; expected ']'
 [2023-03-19 22:18:31] Failed to parse WindBot Ignite config json entry: [json.exception.type_error.304] cannot use at() with string
+[2023-03-19 22:48:42] Failed to load WindBot Ignite config json: [json.exception.parse_error.101] parse error at line 194, column 15: syntax error while parsing array - unexpected ':'; expected ']'
+[2023-03-19 22:48:42] Failed to parse WindBot Ignite config json entry: [json.exception.type_error.304] cannot use at() with string
+[2023-03-19 23:40:04] Failed to load WindBot Ignite config json: [json.exception.parse_error.101] parse error at line 194, column 15: syntax error while parsing array - unexpected ':'; expected ']'
+[2023-03-19 23:40:04] Failed to parse WindBot Ignite config json entry: [json.exception.type_error.304] cannot use at() with string
+[2023-03-20 07:22:37] Failed to load WindBot Ignite config json: [json.exception.parse_error.101] parse error at line 194, column 15: syntax error while parsing array - unexpected ':'; expected ']'
+[2023-03-20 07:22:37] Failed to parse WindBot Ignite config json entry: [json.exception.type_error.304] cannot use at() with string
+[2023-03-20 09:13:54] Failed to load WindBot Ignite config json: [json.exception.parse_error.101] parse error at line 194, column 15: syntax error while parsing array - unexpected ':'; expected ']'
+[2023-03-20 09:13:54] Failed to parse WindBot Ignite config json entry: [json.exception.type_error.304] cannot use at() with string
